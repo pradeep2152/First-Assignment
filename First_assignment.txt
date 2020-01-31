@@ -1,6 +1,8 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
+Bioinformatics makes months work in days. It is already dealing with the process of molecular docking and identification of drugs for which the traditional approach would have taken almost a century to come up with potential lead compounds. 
 
+With little bit more advancements and introduction of artificial intelligence approaches Bioinformatics could one day easily replace wet lab techniques and promotes towards automation.
 
 
 
@@ -10,3 +12,9 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+
+I would preferabbly want to learn R and Python programming which are important to deal with many BioSoftwares and statistical analysis.
+
+NGS data analytics
+
+And some every day bioinformatics questions which I face while using a software.
